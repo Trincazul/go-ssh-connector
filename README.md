@@ -1,5 +1,3 @@
-# go-ssh-connector
-
 # SSH Remote Access
 
 Este é um código escrito em Go que permite acessar um servidor remoto via SSH. O código possui duas funções principais, que podem ser usadas para autenticar via chave RSA ou senha.
